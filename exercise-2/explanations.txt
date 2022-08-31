@@ -1,0 +1,19 @@
+1. React is a way of building websites with java resources. It's name comes from the fast response
+of the real-time development feedback that it gives.
+
+2. React components are buildings blocks and make up the react projects. If some of these are lacking
+the project will fail to run.
+
+3. A website with only a single "activity", meaning it does not have any redirecting built in,
+only its initial page what it loads is built in.
+
+4. Declarative programming focuses on giving freedom to the language used to achieve its goals,
+instead of the imperative programming that uses strict algorithmic guidelines to build the end results,
+without any regard about the language used in programming
+
+5. JSX could be called the additional personality of react. They define and give additional characteristics to already existing components.
+
+6. Asynchronous development basically means that different objectives take their own time of development.
+Synchronous is real time and/or working in tandem with other parts at the same time; requiring their working also for the module to be developed on.
+
+Its basically like normal computers which can process one thing at a time vs quantum computers
